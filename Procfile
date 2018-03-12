@@ -1,1 +1,1 @@
-web: gunicorn hello:intelparking
+web: gunicorn intelparking:hello
