@@ -1,0 +1,30 @@
+<movimento>
+    <registro>
+        <entrada>2015-01-01 00:00:01</entrada>
+        <saida>2015-01-01 01:00:01</saida>
+        <placa>AAA-1111</placa>
+        <permanencia>3600</permanencia>
+        <valor>20.00</valor>
+    </registro>
+    <registro>
+        <entrada>2015-01-01 00:00:01</entrada>
+        <saida>2015-01-01 01:00:01</saida>
+        <placa>AAA-1111</placa>
+        <permanencia>3600</permanencia>
+        <valor>20.00</valor>
+    </registro>
+    <registro>
+        <entrada>2015-01-01 00:00:01</entrada>
+        <saida>2015-01-01 01:00:01</saida>
+        <placa>AAA-1111</placa>
+        <permanencia>3600</permanencia>
+        <valor>20.00</valor>
+    </registro>
+    <registro>
+        <entrada>2015-01-01 00:00:01</entrada>
+        <saida>2015-01-01 01:00:01</saida>
+        <placa>AAA-1111</placa>
+        <permanencia>3600</permanencia>
+        <valor>20.00</valor>
+    </registro>
+</movimento>
